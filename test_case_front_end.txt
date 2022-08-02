@@ -1,0 +1,6 @@
+- Check text
+- Check element position
+- Check the function of buttons and links
+- Change scale screen
+- Check color
+- Check URL
