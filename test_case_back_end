@@ -1,9 +1,0 @@
-Happy case:
-    - Normal range
-    - Array include negative numbers
-    - Array include decimal
-    - Element in Array is a math
-Unhappy case:
-    - Array is missing or redundant element
-    - Array include alphabet
-    - Array include string 
